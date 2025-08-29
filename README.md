@@ -2,7 +2,7 @@
 
 A narrative, 5-stage Capture-the-Flag virtual machine for cybersecurity training. Built on **Ubuntu 20.04**, it teaches: SQLi → stego/FTP → IMAP/bruteforce → SSH key access → SUID priv-esc. :contentReference[oaicite:0]{index=0}
 
-> **Docs**: Full project report lives in [`docs/CyberCortex_CTF_PrisonBreak.pdf`](./docs/CyberCortex_CTF_PrisonBreak.pdf). :contentReference[oaicite:1]{index=1}
+> **Docs**: Full project report lives in [`doc/CyberCortex_CTF_PrisonBreak.pdf`](./doc/CyberCortex_CTF_PrisonBreak.pdf). :contentReference[oaicite:1]{index=1}
 
 ## Quick start
 1. Import the OVA from `vm/OVA_LINKS.md`. (Contains the shared Drive link from the report.) :contentReference[oaicite:2]{index=2}
