@@ -12,4 +12,3 @@ Port forwarding example (redirect 22→2222):
 sudo iptables -t nat -A PREROUTING -p tcp --dport 22 -j REDIRECT --to-ports 2222
 ```
 
-````
